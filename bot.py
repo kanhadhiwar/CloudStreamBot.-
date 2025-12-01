@@ -2,7 +2,7 @@ import os
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN")  # Token Render se aayega
+BOT_TOKEN = os.environ.get("8358684642:AAHntcN33numPcvFpsRICAhuL31DkH3Qn8Y")  # Token Render se aayega
 bot = telebot.TeleBot(BOT_TOKEN)
 
 video_db = {}
